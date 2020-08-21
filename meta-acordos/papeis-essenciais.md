@@ -85,9 +85,9 @@ O [Papel][papeis] do "Anfitrião" possui a seguinte definição inicial:
 
 O Anfitrião detém todas as [Responsabilidades][papeis] e [Domínios][papeis] não delegados do [Círculo][circulos].
 
-## 5.8 <span id="representante">Elo Interno</span>
+## 5.8 <span id="representante">Representante</span>
 
-O [Papel][papeis] do "Elo Interno" possui a seguinte definição inicial:
+O [Papel][papeis] do "Representante" possui a seguinte definição inicial:
 
 **Propósito**: _O_ [_Propósito_][papeis] _do_ [_Círculo_][circulos]
 
