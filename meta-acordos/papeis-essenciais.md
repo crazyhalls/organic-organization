@@ -113,7 +113,7 @@ O [Papel][papeis] do "Elo Interno" possui a seguinte definição inicial:
 [reunioes-de-circulo]: interacoes.md#reuniao-de-circulo
 
 [papeis-essenciais]: papeis-essenciais.md
-[guia]: papeis-essenciais.md#anfitriao
+[anfitriao]: papeis-essenciais.md#anfitriao
 [representante]: papeis-essenciais.md#representante
 [facilitador]: papeis-essenciais.md#facilitador
 [secretario]: papeis-essenciais.md#secretario

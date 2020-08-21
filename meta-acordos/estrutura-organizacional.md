@@ -88,5 +88,5 @@ Um [Círculo][circulos] pode estabelecer prioridades para orientar o trabalho do
 [restricoes]: estrutura-organizacional.md#restricoes
 [adaptar]: interacoes.md#adaptar
 [papeis-essenciais]: papeis-essenciais.md
-[guia]: papeis-essenciais.md#guia
+[anfitriao]: papeis-essenciais.md#anfitriao
 [representante]: papeis-essenciais.md#representante

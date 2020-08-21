@@ -80,7 +80,7 @@ Já foi usado em algumas organizações brasileiras praticantes de O2.
 [reunioes-de-circulo]: ../../meta-acordos/reunioes-de-circulo.md
 [modo-sincronizar]: ../../meta-acordos/reunioes-de-circulo.md#modo-sincronizar
 [modo-cuidar]: ../../meta-acordos/reunioes-de-circulo.md#modo-cuidar
-[guia]: ../../meta-acordos/papeis-essenciais.md#guia
+[anfitriao]: ../../meta-acordos/papeis-essenciais.md#anfitriao
 [facilitador]: ../../meta-acordos/papeis-essenciais.md#facilitador
 [secretario]: ../../meta-acordos/papeis-essenciais.md#secretario
 [tudo-e-de-todos]: ../antipadroes/tudo-e-de-todos.md
