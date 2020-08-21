@@ -9,7 +9,7 @@ Os [Parceiros][parceiros] executam o trabalho em um ou mais "Papéis" explicitam
 * Um nome descritivo;
 * Um "Propósito", que é uma capacidade, potencial ou objetivo inalcançável que o Papel irá perseguir ou expressar;
 * Zero ou mais "Responsabilidades", que são atividades contínuas que outros [Parceiros][parceiros] podem esperar que o Papel irá executar;
-* Zero ou mais "Artefatos", que são ativos que o Papel pode exclusivamente controlar e regular em nome da [Organização][organizacao].
+* Zero ou mais "Domínios", que são ativos que o Papel pode exclusivamente controlar e regular em nome da [Organização][organizacao].
 
 ### 2.1.1 <span id="energizacao">Energização</span>
 
@@ -17,17 +17,17 @@ A "Energização" diz respeito a quais [Parceiros][parceiros] dedicam seu tempo 
 
 ### 2.1.2 <span id="autoridade-do-papel">Autoridade do Papel</span>
 
-Ao perseguir o [Propósito][papeis] dos [Papéis][papeis] que energiza, você está sempre autorizado a tomar ação. Ainda assim você não deve impactar os [Artefatos][papeis] definidos em [Papéis][papeis] que você não energiza ou [Artefatos de Círculos][artefatos-do-circulo] que você não é [Membro][membros-do-circulo], sem antes obter uma permissão explícita do [Parceiro][parceiros] responsável. Você também deve observar as [Restrições][restricoes] definidas na [Estrutura Organizacional][estrutura-organizacional] e seguir as condições nelas estabelecidas.
+Ao perseguir o [Propósito][papeis] dos [Papéis][papeis] que energiza, você está sempre autorizado a tomar ação. Ainda assim você não deve impactar os [Domínios][papeis] definidos em [Papéis][papeis] que você não energiza ou [Domínios de Círculos][dominios-do-circulo] que você não é [Membro][membros-do-circulo], sem antes obter uma permissão explícita do [Parceiro][parceiros] responsável. Você também deve observar as [Restrições][restricoes] definidas na [Estrutura Organizacional][estrutura-organizacional] e seguir as condições nelas estabelecidas.
 
 Ao receber um pedido, você pode avaliar se a solicitação ajuda você a expressar o [Propósito][papeis] ou a atender as [Responsabilidades][papeis] dos [Papéis][papeis] que você energiza. Você pode rejeitar quaisquer pedidos que interpretar não atenderem a esses critérios.
 
 ### 2.1.3 <span id="deixando-papeis">Deixando Papéis</span>
 
-Você pode a qualquer momento deixar de energizar [Papéis][papeis] em um ou mais [Círculos][circulos], a não ser que você tenha de outra forma acordado com o [Elo Externo][elo-externo] ou outro processo de [Energização][energizacao].
+Você pode a qualquer momento deixar de energizar [Papéis][papeis] em um ou mais [Círculos][circulos], a não ser que você tenha de outra forma acordado com o [Anfitrião][anfitriao] ou outro processo de [Energização][energizacao].
 
 ## 2.2 <span id="circulos">Círculos</span>
 
-Um "Círculo" é um [Papel][papeis] que possui a autoridade de se dividir em [Papéis][papeis] menores, contidos dentro dele mesmo. [Círculos][circulos] são definidos exatamente como os [Papéis][papeis], ou seja, através dos elementos nome, [Propósito][papeis], [Responsabilidades][papeis] e [Artefatos][papeis].
+Um "Círculo" é um [Papel][papeis] que possui a autoridade de se dividir em [Papéis][papeis] menores, contidos dentro dele mesmo. [Círculos][circulos] são definidos exatamente como os [Papéis][papeis], ou seja, através dos elementos nome, [Propósito][papeis], [Responsabilidades][papeis] e [Domínios][papeis].
 
 ### 2.2.1 <span id="circulos-nao-alteram-sua-definicao">Círculos não alteram sua definição</span>
 
@@ -37,21 +37,29 @@ Um [Círculo][circulos] pode governar os seus próprios [Papéis][papeis] e [Res
 
 Um [Círculo][circulos] não pode alterar os [Papéis][papeis], [Círculos][circulos] e [Restrições][restricoes] de um [Círculo][circulos] interno diretamente. No entanto, um [Círculo][circulos] pode realizar algumas operações na interação [Adaptar][adaptar], como mover [Papéis][papeis] de si para os seus [Círculos][circulos] internos e vice-versa.
 
-## 2.3 <span id="membros-do-circulo">Membros do Círculo</span>
+## 2.3 <span id="domínios-do-circulo">Domínios do Círculo</span>
+
+Quando um [Círculo][circulos] possui [Domínios][papeis] na sua definição, somente [Membros do Círculo][membros-do-circulo] e dos [Círculos][circulos] internos podem impactar estes [Domínios][papeis] livremente.
+
+### 2.3.1 <span id="circulos-podem-delegar-domínios">Círculos podem delegar Domínios</span>
+
+Um [Círculo][circulos] pode especificar um de seus [Domínios][papeis] em um [Papel][papeis] ou [Círculo][circulos] interno. Se isto for feito, aquele [Domínio][papeis] passa a ser exclusivo do [Papel][papeis] ou [Círculo][circulos] interno, até que esta delegação seja desfeita.
+
+## 2.4 <span id="membros-do-circulo">Membros do Círculo</span>
 
 [Parceiros][parceiros] são considerados "Membros" de um determinado [Círculo][circulos] quando atenderem pelo menos um dos critérios abaixo:
 
 * Energizam pelo menos um [Papel][papeis] definido no [Círculo][circulos];
 * Energizam pelo menos um dos [Papéis Essenciais][papeis-essenciais] no [Círculo][circulos];
-* Energizam o [Papel][papeis] de [Elo Externo][elo-externo] ou [Elo Interno][elo-interno] em pelo menos um dos [Círculos][circulos] internos ao [Círculo][circulos].
+* Energizam o [Papel][papeis] de [Anfitrião][anfitriao] ou [Representante][representante] em pelo menos um dos [Círculos][circulos] internos ao [Círculo][circulos].
 
-## 2.4 <span id="artefatos-do-circulo">Artefatos do Círculo</span>
+## 2.4 <span id="dominios-do-circulo">Domínios do Círculo</span>
 
-Quando um [Círculo][circulos] possui [Artefatos][papeis] na sua definição, somente [Membros do Círculo][membros-do-circulo] e dos [Círculos][circulos] internos podem impactar estes [Artefatos][papeis] livremente.
+Quando um [Círculo][circulos] possui [Domínios][papeis] na sua definição, somente [Membros do Círculo][membros-do-circulo] e dos [Círculos][circulos] internos podem impactar estes [Domínios][papeis] livremente.
 
-### 2.4.1 <span id="circulos-podem-delegar-artefatos">Círculos podem delegar Artefatos</span>
+### 2.4.1 <span id="circulos-podem-delegar-dominios">Círculos podem delegar Domínios</span>
 
-Um [Círculo][circulos] pode especificar um de seus [Artefatos][papeis] em um [Papel][papeis] ou [Círculo][circulos] interno. Se isto for feito, aquele [Artefato][papeis] passa a ser exclusivo do [Papel][papeis] ou [Círculo][circulos] interno, até que esta delegação seja desfeita.
+Um [Círculo][circulos] pode especificar um de seus [Domínios][papeis] em um [Papel][papeis] ou [Círculo][circulos] interno. Se isto for feito, aquele [Artefato][papeis] passa a ser exclusivo do [Papel][papeis] ou [Círculo][circulos] interno, até que esta delegação seja desfeita.
 
 ## 2.5 <span id="restricoes">Restrições</span>
 
@@ -74,11 +82,11 @@ Um [Círculo][circulos] pode estabelecer prioridades para orientar o trabalho do
 [estrutura-organizacional]: estrutura-organizacional.md
 [circulos]: estrutura-organizacional.md#circulos
 [energizacao]: estrutura-organizacional.md#energizacao
-[artefatos-do-circulo]: estrutura-organizacional.md#artefatos-do-circulo
+[dominios-do-circulo]: estrutura-organizacional.md#domínios-do-circulo
 [membros-do-circulo]: estrutura-organizacional.md#membros-do-circulo
 [papeis]: estrutura-organizacional.md#papeis
 [restricoes]: estrutura-organizacional.md#restricoes
 [adaptar]: interacoes.md#adaptar
 [papeis-essenciais]: papeis-essenciais.md
-[elo-externo]: papeis-essenciais.md#elo-externo
-[elo-interno]: papeis-essenciais.md#elo-interno
+[guia]: papeis-essenciais.md#guia
+[representante]: papeis-essenciais.md#representante

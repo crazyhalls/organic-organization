@@ -18,7 +18,7 @@ Na maior parte das organizações, tudo que tange a relação Parceiros-Organiza
 
 ## Solução
 
-A solução passa pela definição de um [Círculo][circulos] denominado “Parceiros”, “Relações Parceiros-Organização”, ou qualquer outro nome que represente as pessoas da [Organização][organizacao] em questão. Este [Círculo][circulos] tem a autoridade exclusiva \(na forma de um [Artefato][papeis]\) de governar a relação Parceiros-Organização. A ideia central é que qualquer mudança nos contratos dos [Parceiros][parceiros] deve ser decidida por este [Círculo][circulos]. Além disso, quando uma pessoa busca uma mudança, ela deve integrar [Objeções][objecoes] de todos os membros do [Círculo][circulos].
+A solução passa pela definição de um [Círculo][circulos] denominado “Parceiros”, “Relações Parceiros-Organização”, ou qualquer outro nome que represente as pessoas da [Organização][organizacao] em questão. Este [Círculo][circulos] tem a autoridade exclusiva \(na forma de um [Domínio][papeis]\) de governar a relação Parceiros-Organização. A ideia central é que qualquer mudança nos contratos dos [Parceiros][parceiros] deve ser decidida por este [Círculo][circulos]. Além disso, quando uma pessoa busca uma mudança, ela deve integrar [Objeções][objecoes] de todos os membros do [Círculo][circulos].
 
 ![Círculo de Parceiros](../imagens/circulo-de-parceiros.png)
 
@@ -32,7 +32,7 @@ O primeiro elemento do padrão constitui a criação de um [Círculo][circulos]:
 >
 > * Definir condições e restrições que limitem como mudanças nas relações entre a [Organização][organizacao] e os seus [Parceiros][parceiros] devem acontecer
 >
-> **Artefatos**:
+> **Domínios**:
 >
 > * Relação Parceiros-Organizações \(mudanças nos contratos de trabalho, como rescisão, aumentos, admissões, etc\)
 
@@ -46,7 +46,7 @@ Além da definição, o [Círculo][circulos] de [Parceiros][parceiros] deve poss
 >
 > * Processar propostas de mudanças na relação Parceiros-Organização de acordo com os interesses e necessidades do Círculo
 
-Este [Papel][papeis] é desempenhado por cada [Elo Externo](../../meta-acordos/papeis-essenciais.md#elo-externo) de cada Círculo da Organização.
+Este [Papel][papeis] é desempenhado por cada [Anfitrião][anfitriao] de cada Círculo da Organização.
 
 > **Papel**: Representante dos Parceiros
 >
@@ -62,13 +62,13 @@ Além dos [Papéis][papeis] definidos acima, o [Círculo][circulos] de [Parceiro
 
 > **Restrição**: Atribuição de Pessoas a Papéis dentro do Círculo
 >
-> O [Elo Externo](../../meta-acordos/papeis-essenciais.md#elo-externo) não pode atribuir [Parceiros][parceiros] a [Papéis][papeis] dentro do [Círculo][circulos]. Ao invés disso, as seguintes condições se aplicam:
+> O [Anfitrião][anfitriao] não pode atribuir [Parceiros][parceiros] a [Papéis][papeis] dentro do [Círculo][circulos]. Ao invés disso, as seguintes condições se aplicam:
 >
-> * Cada [Parceiro][parceiros] que é [Elo Externo](../../meta-acordos/papeis-essenciais.md#elo-externo) de um [Círculo][circulos] \(com exceção do próprio [Círculo][circulos] de Parceiros\) é automaticamente convidado a desempenhar o [Papel][papeis] de _Representante do Círculo_, com foco no [Círculo][circulos] do qual é [Elo Externo](../../meta-acordos/papeis-essenciais.md#elo-externo).
+> * Cada [Parceiro][parceiros] que é [Anfitrião][anfitriao] de um [Círculo][circulos] \(com exceção do próprio [Círculo][circulos] de Parceiros\) é automaticamente convidado a desempenhar o [Papel][papeis] de _Representante do Círculo_, com foco no [Círculo][circulos] do qual é [Anfitrião][anfitriao].
 > * Qualquer Parceiro pode desempenhar o [Papel][papeis] de _Representante dos Parceiros_, desde que seja eleito por maioria dos votos em eleição geral entre todos os [Parceiros][parceiros] da Organização. O número de [Parceiros][parceiros] desempenhando o [Papel][papeis] de _Representante dos Parceiros_ fica limitado em 3.
 > * Qualquer outro [Papel][papeis] criado neste [Círculo][circulos] segue a seguinte regra de atribuição: qualquer [Membro do Círculo](../../meta-acordos/estrutura-organizacional.md#membros-do-circulo) de [Parceiros][parceiros] pode convidar [Parceiros][parceiros] para desempenharem um papel, desde que antes apresente uma proposta e integre [Objeções][objecoes] de todos os demais membros do [Círculo][circulos].
 
-A restrição acima basicamente retira os poderes do [Elo Externo](../../meta-acordos/papeis-essenciais.md#elo-externo) do [Círculo][circulos] de [Parceiros][parceiros] e determina uma forma alternativa de atribuição. O objetivo do [Círculo][circulos] de [Parceiros][parceiros] é ter todos os [Círculos][circulos] da [Organização][organizacao] representados, além de [Parceiros][parceiros] escolhidos de forma democrática para representar os próprios [Parceiros][parceiros], como indivíduos.
+A restrição acima basicamente retira os poderes do [Anfitrião][anfitriao] do [Círculo][circulos] de [Parceiros][parceiros] e determina uma forma alternativa de atribuição. O objetivo do [Círculo][circulos] de [Parceiros][parceiros] é ter todos os [Círculos][circulos] da [Organização][organizacao] representados, além de [Parceiros][parceiros] escolhidos de forma democrática para representar os próprios [Parceiros][parceiros], como indivíduos.
 
 > **Restrição**: Mudando a relação Parceiro-Organização
 >
@@ -86,7 +86,7 @@ Para entender melhor o funcionamento do padrão, podemos imaginar duas situaçõ
 
 #### Caso 1: Demissão
 
-Lisa, [Membro do Círculo](../../meta-acordos/estrutura-organizacional.md#membros-do-circulo) de [Parceiros][parceiros], propõe que a relação entre Joana e a [Organização][organizacao] seja encerrada \(uma demissão\). Lisa apresenta a proposta para os demais parceiros, afirmando que observou que a Joana constantemente chega mais cedo, registra sua entrada no ponto eletrônico e dorme por umas duas horas, até que começa a trabalhar mais tarde. Além disso, Lisa acredita que Joana esteja trabalhando para um concorrente. Joana hoje desempenha um [Papel][papeis] dentro do [Círculo][circulos] que Lisa é [Elo Externo](../../meta-acordos/papeis-essenciais.md#elo-externo). Lisa acredita que esses comportamentos são prejudiciais à [Organização][organizacao] \([Tensão][tensoes]\) e isso impacta o [Círculo][circulos] dela.
+Lisa, [Membro do Círculo](../../meta-acordos/estrutura-organizacional.md#membros-do-circulo) de [Parceiros][parceiros], propõe que a relação entre Joana e a [Organização][organizacao] seja encerrada \(uma demissão\). Lisa apresenta a proposta para os demais parceiros, afirmando que observou que a Joana constantemente chega mais cedo, registra sua entrada no ponto eletrônico e dorme por umas duas horas, até que começa a trabalhar mais tarde. Além disso, Lisa acredita que Joana esteja trabalhando para um concorrente. Joana hoje desempenha um [Papel][papeis] dentro do [Círculo][circulos] que Lisa é [Anfitrião][anfitriao]. Lisa acredita que esses comportamentos são prejudiciais à [Organização][organizacao] \([Tensão][tensoes]\) e isso impacta o [Círculo][circulos] dela.
 
 Ao apresentar a proposta, Lisa ouve e responde uma série de perguntas feitas pelos demais membros do [Círculo][circulos].
 
@@ -135,3 +135,5 @@ No momento da escrita, uma variante do padrão é utilizado por uma [Organizaç�
 [organizacao]: ../../meta-acordos/organizacao.md
 [membros-do-circulo]: ../../meta-acordos/estrutura-organizacional.md#membros-do-circulo
 [meta-acordos]: ../../meta-acordos#meta-acordos-da-organização-orgânica
+
+[anfitriao]: ../../meta-acordos/papeis-essenciais.md#anfitriao
