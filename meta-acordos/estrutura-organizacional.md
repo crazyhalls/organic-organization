@@ -53,23 +53,23 @@ Um [Círculo][circulos] pode especificar um de seus [Domínios][papeis] em um [P
 * Energizam pelo menos um dos [Papéis Essenciais][papeis-essenciais] no [Círculo][circulos];
 * Energizam o [Papel][papeis] de [Anfitrião][anfitriao] ou [Representante][representante] em pelo menos um dos [Círculos][circulos] internos ao [Círculo][circulos].
 
-## 2.4 <span id="dominios-do-circulo">Domínios do Círculo</span>
+## 2.5 <span id="dominios-do-circulo">Domínios do Círculo</span>
 
 Quando um [Círculo][circulos] possui [Domínios][papeis] na sua definição, somente [Membros do Círculo][membros-do-circulo] e dos [Círculos][circulos] internos podem impactar estes [Domínios][papeis] livremente.
 
-### 2.4.1 <span id="circulos-podem-delegar-dominios">Círculos podem delegar Domínios</span>
+### 2.5.1 <span id="circulos-podem-delegar-dominios">Círculos podem delegar Domínios</span>
 
 Um [Círculo][circulos] pode especificar um de seus [Domínios][papeis] em um [Papel][papeis] ou [Círculo][circulos] interno. Se isto for feito, aquele [Artefato][papeis] passa a ser exclusivo do [Papel][papeis] ou [Círculo][circulos] interno, até que esta delegação seja desfeita.
 
-## 2.5 <span id="restricoes">Restrições</span>
+## 2.6 <span id="restricoes">Restrições</span>
 
 "Restrições" são limitações de autoridade que aplicam-se a todos os [Papéis][papeis] de um [Círculo][circulos]. Restrições são compostas por um nome e uma descrição. A não ser que de outra forma especificado em sua descrição, o efeito de uma Restrição se aplica a todos os [Papéis][papeis] e [Círculos][circulos] internos ao [Círculo][circulos] onde ela é definida. Uma Restrição é parte de um [Círculo][circulos], assim como um [Papel][papeis] ou [Círculo][circulos] interno.
 
-### 2.5.1 <span id="restricoes-nao-estabelecem-expectativas">Restrições não estabelecem expectativas</span>
+### 2.6.1 <span id="restricoes-nao-estabelecem-expectativas">Restrições não estabelecem expectativas</span>
 
 [Restrições][restricoes] não podem estabelecer expectativas, porque este é o objetivo de uma [Responsabilidade][papeis]. Ainda assim, uma [Restrição][restricoes] pode exigir ação, mas apenas para [Parceiros][parceiros] em que a [Restrição][restricoes] se aplica na condição específica que desencadeia ela.
 
-## 2.6 <span id="prioridades-do-circulo">Prioridades do Círculo</span>
+## 2.7 <span id="prioridades-do-circulo">Prioridades do Círculo</span>
 
 Um [Círculo][circulos] pode estabelecer prioridades para orientar o trabalho dos seus [Membros][membros-do-circulo]. Enquanto [Membro do Círculo][membros-do-circulo], você deve priorizar o seu trabalho em alinhamento com estas diretrizes estabelecidas.
 
