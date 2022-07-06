@@ -303,6 +303,8 @@ Enquanto [Parceiro](#1-2-parceiros), você é responsável por tratar as [Tensõ
 
 Enquanto [Parceiro](#1-2-parceiros), é esperado que você compartilhe quando solicitado por outros [Parceiros](#1-2-parceiros) todas as informações relevantes sobre o trabalho que você realiza para a [Organização](#1-organizacao), incluindo os seus projetos, ações identificadas, critérios de priorização e métricas relevantes. Quando solicitado, também é esperado que você forneça estimativas e projeções sobre possíveis datas de conclusão de seus trabalhos, mesmo que essas projeções não devam ser consideradas prazos ou compromissos.
 
-## 5.4 Ato Heróico
+## 5.4 Ato Heroico
 
 Você pode temporariamente ignorar estes [Meta-Acordos](#meta-acordos) se isto for útil e necessário para expressar o [Propósito Evolutivo](#1-1-proposito-evolutivo) da [Organização](#1-organizacao). Iniciativas ou pedidos que possuem essa qualidade são chamados de "Atos Heroicos". Você deve sempre buscar reparar quaisquer danos causados após um Ato Heroico, propondo mudanças na [Estrutura Organizacional](#2-estrutura-organizacional) ou até nestes [Meta-Acordos](#meta-acordos) se necessário.
+
+Quando você persegue ações que não consegue estabelecer uma conexão direta com o [Propósito](#2-1-papeis) ou [Responsabilidades](#2-1-papeis) de um ou mais [Papéis](#2-1-papeis) que energiza, isto também é considerado um Ato Heroico.
