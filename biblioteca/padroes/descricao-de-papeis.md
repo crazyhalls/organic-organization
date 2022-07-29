@@ -18,7 +18,7 @@ Precisamos criar a estrutura inicial de maneira rápida, participativa e elegant
 
 Em uma sessão que pode durar entre 2h e 4h, propomos aos integrantes do [Círculo](../../meta-acordos.md#2-2-circulos) que está se formando a seguinte dinâmica:
 
-**1\) Atividades realizadas**: Cada pessoa escreve em uma folha de [Papel](../../meta-acordos.md#2-1-papeis) tudo que fez nos últimos 30 a 60 dias. Só vale incluir aquilo que realmente foi feito, não aquilo que deveria ter sido feito mas não foi por algum motivo.
+**1\) Atividades realizadas**: Cada pessoa escreve em uma folha ou dashboard digital tudo que fez nos últimos 30 a 60 dias ou pode desenhar as etapas de um processo em que esteja mais próximo como por exemplo, processo de publicação de uma postagem no Blog da organização. Só vale incluir aquilo que realmente foi feito, não aquilo que deveria ter sido feito mas não foi por algum motivo.
 
 Exemplos de atividades:
 
@@ -26,6 +26,12 @@ Exemplos de atividades:
 * b\) Escrevi um post sobre a importância da auto-organização
 * c\) Otimizei o blog para buscadores
 * d\) Criei uma nova página para os cursos abertos da Target Teal
+
+Exemplos de processos:
+```mermaid
+Processo de escrever conteúdo para o blog;
+    Convidar para criar post-->Escrever um post-->Revisar post-->Corrigir post-->Publicar post;
+```
 
 **2\) Tradução em** [**Responsabilidades**](../../meta-acordos.md#2-1-papeis): Cada um pega a sua lista e faz a tradução das atividades em [Responsabilidades](../../meta-acordos.md#2-1-papeis), colocando cada uma em um nota adesiva. A tradução envolve tornar a atividade genérica e também observar as dicas para boas [Responsabilidades](../../meta-acordos.md#2-1-papeis).
 
